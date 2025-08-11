@@ -1,6 +1,7 @@
-# 🌸 Olá, eu sou a Maria Eduarda Araújo de Lima! 🌸
 
-![Banner](https://github.com/EduardaLima-09/Meu-Repositorio/blob/main/Minha%20Linha%20Do%20Tempo.svg)
+![Banner](https://github.com/EduardaLima-09/EduardaLima-09/blob/main/Minha%20Linha%20Do%20Tempo.svg)
+
+ # 🌸 Olá, eu sou a Maria Eduarda Lima! 🌸
 
 ---
 
@@ -19,13 +20,12 @@ Aqui você vai encontrar meus projetos com muito amor e dedicação, feitos para
 
 ---
 
-## 🎀 Tecnologias que uso
+## 🎀 Tecnologias que uso no momento
 
 [![HTML](https://img.shields.io/badge/HTML-%23FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
 [![CSS](https://img.shields.io/badge/CSS-%23FF69B4.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23FF69B4.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
 [![MySQL](https://img.shields.io/badge/MySQL-%23FF69B4.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![Draw.io](https://img.shields.io/badge/Draw.io-%23FF69B4.svg?style=for-the-badge&logo=draw.io&logoColor=white)](https://app.diagrams.net/)  
 [![Git](https://img.shields.io/badge/Git-%23FF69B4.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23FF69B4.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
@@ -34,8 +34,12 @@ Aqui você vai encontrar meus projetos com muito amor e dedicação, feitos para
 ## 💌 Contato
 
 Quer conversar? Estou aqui!  
-📧 **mariaeduarda@email.com** (não esqueça de colocar seu email real!)  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil) (adicione seu perfil real!)  
+
+📧 **maria.alima@sptech.school** 
+
+📧 **mariaeduardaaraujodelima1@gmail.com** 
+
+🔗 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-araujo-de-lima-833829264/) 
 
 ---
 

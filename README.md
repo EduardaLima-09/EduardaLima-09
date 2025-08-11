@@ -22,12 +22,18 @@ Aqui você vai encontrar meus projetos com muito amor e dedicação, feitos para
 
 ## 🎀 Tecnologias que uso no momento
 
+### Front-end  
 [![HTML](https://img.shields.io/badge/HTML-%23FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
 [![CSS](https://img.shields.io/badge/CSS-%23FF69B4.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23FF69B4.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
+
+### Back-end  
 [![MySQL](https://img.shields.io/badge/MySQL-%23FF69B4.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+
+### Controle de versão  
 [![Git](https://img.shields.io/badge/Git-%23FF69B4.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23FF69B4.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23FF69B4.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+
 
 ---
 

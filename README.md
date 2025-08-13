@@ -29,6 +29,8 @@ Aqui você vai encontrar meus projetos com muito amor e dedicação, feitos para
 
 ### Back-end  
 [![MySQL](https://img.shields.io/badge/MySQL-%23FF69B4.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-%23FF69B4.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
+
 
 ### Controle de versão  
 [![Git](https://img.shields.io/badge/Git-%23FF69B4.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  

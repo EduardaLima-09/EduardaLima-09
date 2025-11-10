@@ -1,5 +1,8 @@
 
-![Banner](https://github.com/EduardaLima-09/EduardaLima-09/blob/main/Minha%20Linha%20Do%20Tempo.svg)
+<p align="center">
+  <img src="https://github.com/EduardaLima-09/EduardaLima-09/blob/main/mariaEduarda.svg" alt="Banner - Minha Linha do Tempo" width="100%">
+</p>
+
 
  # 🌸 Olá, eu sou a Maria Eduarda Lima! 🌸
 
@@ -17,6 +20,7 @@
 ## ✨ Meus projetos
 
 Aqui você vai encontrar meus projetos com muito amor e dedicação, feitos para aprender, crescer e compartilhar conhecimento! 🌱💻
+No momento, estou desenvolvendo meu projeto individual da faculdade 
 
 ---
 

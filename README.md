@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://github.com/EduardaLima-09/EduardaLima-09/blob/main/mariaEduarda.svg" alt="Banner - Minha Linha do Tempo" width="100%">
+  <img src="https://github.com/EduardaLima-09/EduardaLima-09/blob/main/C%C3%B3pia%20de%20mariaEduarda.png" alt="Banner - Minha Linha do Tempo" width="100%">
 </p>
 
 
- # 🌸 Olá, eu sou a Maria Eduarda Lima! 🌸
+ # Olá, eu sou a Maria Eduarda Lima!
 
 ---
 
@@ -13,7 +13,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Sptech School  
 🏎️ Amante de **Fórmula 1** — velocidade é tudo!  
 🎤 Apaixonada pelo som do **Kendrick Lamar**  
-🏠 Moradora da charmosa **Zona Leste de São Paulo**  
+🏠 Moro na **Zona Leste de São Paulo**  
 
 ---
 
@@ -51,7 +51,7 @@ Quer conversar? Estou aqui!
 
 📧 **mariaeduardaaraujodelima1@gmail.com** 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-araujo-de-lima-833829264/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-de-lima-833829264/) 
 
 ---
 
@@ -59,8 +59,7 @@ Quer conversar? Estou aqui!
 
 - 🎵 Curto muito ouvir **Kendrick Lamar**  
 - 🏁 Não perco uma corrida de **Fórmula 1**  
-- 📚 Amo aprender coisas novas todos os dias!  
 
 ---
 
-### 💖 Muito obrigada por visitar meu GitHub! Você é incrível! 🌷
+### 💖 Muito obrigada por visitar meu GitHub!🌷

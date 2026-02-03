@@ -4,13 +4,13 @@
 </p>
 
 
-# ❤️ Olá, eu sou a Maria Eduarda Lima!
+# 🌹 Olá, eu sou a Maria Eduarda Lima!
 
 ---
 
 ## ❤️‍🔥 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **SPTech School**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **SPTech**  
 💼 Estagiária em **Governança de TI** na **Stefanini**  
 🏁 Amante de **Fórmula 1** — velocidade, estratégia e adrenalina  
 🎶 Fã de **Kendrick Lamar**  
@@ -22,44 +22,32 @@
 
 Aqui você vai encontrar projetos desenvolvidos com dedicação e curiosidade, focados em aprendizado contínuo e evolução na área de tecnologia 💻🔥  
 
-🚧 Atualmente trabalhando no **projeto individual da faculdade**, aplicando conceitos de front-end, back-end e banco de dados.
+🚀 **Formula 1 – Living is Driving**  
+Projeto individual desenvolvido durante a faculdade, unindo paixão por Fórmula 1 e tecnologia, com foco em aprendizado prático de desenvolvimento web.
+
+🔗 **Repositório:**  
+https://github.com/EduardaLima-09/Formula-1-Living-is-driving.git
 
 ---
-
 ## ❤️‍🔥 Tecnologias que utilizo
 
-### ❤️ Front-end  
-[![HTML](https://img.shields.io/badge/HTML-%23FF0000.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
-[![CSS](https://img.shields.io/badge/CSS-%23FF0000.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23FF0000.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
-### ❤️ Back-end  
-[![MySQL](https://img.shields.io/badge/MySQL-%23FF0000.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-%23FF0000.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
-
-### ❤️ Controle de versão  
-[![Git](https://img.shields.io/badge/Git-%23FF0000.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23FF0000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+| ❤️ Front-end | ❤️ Back-end | ❤️ Controle de versão | ❤️ Ambientes & Outros |
+|-------------|------------|----------------------|-----------------------|
+| ![HTML](https://img.shields.io/badge/HTML-%23800020.svg?style=for-the-badge&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-%23800020.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23800020.svg?style=for-the-badge&logo=git&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-%23800020.svg?style=for-the-badge&logo=linux&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/CSS-%23800020.svg?style=for-the-badge&logo=css3&logoColor=white) | ![MySQL_Workbench](https://img.shields.io/badge/MySQL_Workbench-%23800020.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23800020.svg?style=for-the-badge&logo=github&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-%23800020.svg?style=for-the-badge&logo=windows&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-%23800020.svg?style=for-the-badge&logo=javascript&logoColor=white) |  |  | ![VirtualBox](https://img.shields.io/badge/Virtual_Machine-%23800020.svg?style=for-the-badge&logo=virtualbox&logoColor=white) |
+|  |  |  | ![Arduino](https://img.shields.io/badge/Arduino-%23800020.svg?style=for-the-badge&logo=arduino&logoColor=white) |
 
 ---
-
 ## ❤️ Contato
 
 Vamos conversar? Fique à vontade! 💬❤️  
 
+🔗 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-de-lima-833829264/)  
 📧 **maria.alima@sptech.school**  
 📧 **mariaeduardaaraujodelima1@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-de-lima-833829264/)
-
----
-
-## ❤️‍🔥 Gostos pessoais
-
-🎵 Música: **Kendrick Lamar**  
-🏎️ Esporte favorito: **Fórmula 1**
 
 ---
 
 ### ❤️ Muito obrigada por visitar meu GitHub!
-🌹 Volte sempre 🌹
 
